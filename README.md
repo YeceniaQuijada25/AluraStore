@@ -3,7 +3,7 @@ Ayudar al Sr. Juan a decidir qué tienda de su cadena Alura Store debe vender pa
 <Para visualizar correctamente el informe debe seguir los siguientes pasos:>
 <p>Paso 1: Hacer click en el archivo alurastorelatam_jpy que se muestra en la siguiente imagen</p>
 <img src="1_1.jpg" alt="Imagen 1">
-<p>Automáticamente se mostrará los dataset correspondientes a la facturación, los productos mas vendidos y menos vendidos, la calidixacion promedio por tienda, el costo promedio de envios y las gráficas</p>
+<p>Automáticamente se mostrará los dataset correspondientes a la facturación, los productos mas vendidos y menos vendidos, la calidixacion promedio por tienda, el costo promedio de envios y las gráficas, tal como se muestra a continuación</p>
 <img src="2.jpg" alt="Imagen 2">
 <img src="3.jpg" alt="Imagen 3">
 <img src="4.jpg" alt="Imagen 4">
